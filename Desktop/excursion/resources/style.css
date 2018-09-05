@@ -1,5 +1,17 @@
+body {
+  background-color: black;}
 h1 {
-  font-family: helvetica;
+  font-family: verdana;
   color: white;
-  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
+p {
+  font-family: Verdana;
+  color: grey;
+  font-size: 21px;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
 }
