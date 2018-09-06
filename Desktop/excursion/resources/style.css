@@ -1,5 +1,9 @@
+* {
+  text-align: center;
+}
 body {
-  background-color: black;}
+  background-color: black;
+}
 h1 {
   font-family: verdana;
   color: white;
@@ -7,9 +11,10 @@ h1 {
   text-align: center;
 }
 p {
-  font-family: Verdana;
+  font-family: verdana;
   color: grey;
   font-size: 21px;
+  text-align: center;
 }
 a {
   color: aquamarine;
