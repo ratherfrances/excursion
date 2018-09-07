@@ -1,0 +1,47 @@
+
+* {
+  text-align: center;
+}
+body {
+  background-image:url(eggzzz.jpg);
+  background-size:cover;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+div {
+}
+
+h1 {
+  font-family:'Source Sans Pro';
+  font-size:25px;
+  color:black;
+  text-align: center;
+}
+
+p {
+  font-family:'Source Sans Pro';
+  font-size:20px;
+  color:Black;
+  text-align: center;
+
+}
+
+h1:hover {
+  color:LightSeaGreen;
+}
+
+h2 {
+    color:black;
+    font-family:'Source Sans Pro';
+    font-size:20px;
+  }
+
+ul li {
+  font-size: 25px;
+  font-family:'Source Sans Pro';
+  list-style-type: none;
+  display: inline;
+  color: black;
+}
